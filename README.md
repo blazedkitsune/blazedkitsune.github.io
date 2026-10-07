@@ -1,2 +1,0 @@
-# blazedkitsune.github.io
-website
